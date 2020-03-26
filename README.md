@@ -1,2 +1,19 @@
-# TIL
-Today I Learned
+# 이동현
+안녕하세요. 뛰어난 개발자가 되기를 꿈꾸는 26살 이동현입니다.  
+현재 Kotlin을 이용한 Android App 개발을 공부 중 입니다. 
+
+## 소개
+2019년 1월 Java공부를 시작으로 프로그래밍 첫 걸음마를 뗐습니다.  
+2020년 1월 Kotlin과 Android 공부를 시작했습니다.
+### 보유한 프로그래밍 기술
+Java, Kotlin, Android
+### 학력
+  - 경희대학교 공과대학 정보전자신소재공학과 재학 중 (2014.03 ~ )
+  - 동원고등학교 졸업 (2010.03 ~ 2013.02)
+
+## 목록
+- 일만시간 코딩
+- [TIL(Today I Learned)](https://github.com/linear14/My-Info/tree/master/docs/daily)
+- 공부 목록
+- 스터디 및 세미나
+- 프로젝트
