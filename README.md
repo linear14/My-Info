@@ -12,9 +12,7 @@ Java, Kotlin, Android
   - 동원고등학교 졸업 (2010.03 ~ 2013.02)
 
 ## 목록
-- [일만시간 코딩](https://github.com/linear14/My-Info/tree/master/docs/hours10000)
-- [TIL(Today I Learned)](https://github.com/linear14/My-Info/tree/master/docs/daily)
-- 공부 목록
+- [velog blog](https://velog.io/@dev_2dong)
 - [스터디](https://github.com/linear14/My-Info/blob/master/docs/study/study_main.md)
 - 세미나 참여
 - 프로젝트
